@@ -1,0 +1,14 @@
+body {
+    font-family: monospace; font-weight: bolder; color: aqua; background-color: black; size: 75px;
+}
+.all {
+    padding: 10px;
+    border: 2px double;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+legend {
+    color: aqua;
+}
